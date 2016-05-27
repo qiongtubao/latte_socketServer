@@ -1,0 +1,17 @@
+{
+	"name":"latte_socket",
+    "version":"0.0.1",
+	"description": "latte_socketServer",
+	"keywords": ["latte","latte_socketServer"],
+	"author": "qiongtubao",
+	"main": "lib/index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/qiongtubao/latte_socketServer.git"
+	},
+	"dependencies": {
+		"latte_lib": "*",
+		"latte_watch": "*",
+		"latte_require": "*"
+	}
+}
